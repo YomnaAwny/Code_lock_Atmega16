@@ -1,4 +1,4 @@
-# Code_Lock_Atmega16
+# Code_Locker_Atmega16
 
 This repository contains a code locker project developed as part of an embedded systems course, using two Atmega16 microcontrollers.
 
